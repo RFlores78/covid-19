@@ -7,4 +7,4 @@ A pandemia de *COVID-19*, desencadeada pelo vírus SARS-CoV-2, representa uma cr
 
 Este projeto tem como objetivo o desenvolvimento de um dashboard interativo para a exploração e visualização dos dados relativos à disseminação de casos e à cobertura vacinal no Brasil, com comparações entre o Brasil e outros países da América do Sul. A plataforma fornecerá insights valiosos sobre a dinâmica da propagação do vírus, o impacto das medidas de controle e o progresso das campanhas de vacinação, auxiliando no entendimento regional da pandemia e no suporte à tomada de decisões informadas.
 
-Link para acessar o projeto no GOOGLE DATA STUDIO [LINK](https://lookerstudio.google.com/s/m_3y3HIcWfA)
+**Link para acessar o projeto no GOOGLE DATA STUDIO** [LINK](https://lookerstudio.google.com/s/m_3y3HIcWfA)
